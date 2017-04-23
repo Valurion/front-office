@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mail>
+<subject>Changement de votre mot de passe</subject>
+<from>Cairn.info&lt;support@cairn.info&gt;</from>
+<fromName>Cairn.info</fromName>
+<body><![CDATA[
+<html><head><title>Votre mot de passe</title></head><body><p>Bonjour, 
+<br/>
+<p>Suite à votre demande sur le site www.cairn.info, vous pouvez réinitialiser votre mot de passe en cliquant sur le lien suivant :<br/>
+<a target="_blank" href="http://[URLSITE]/mdp_nouveau.php?id=[LINK]">http://[URLSITE]/motdepasseoublie</a></p>
+<p>Pour tout complément d'information, n'hésitez pas à <a target="blank" href="http://www.cairn.info/contact.php">nous contacter</a>.</p>
+<p>Nous vous souhaitons une bonne visite.</p>
+<p>L'équipe Cairn.info</p>
+<p>
+<br/>-----------------------
+<br/>Cairn S.A.
+<br/>58/60, rue des Champs
+<br/>B-4020 Liège
+<br/>BELGIQUE
+<br/>Conditions générales de vente :
+<br/>http://www.cairn.info/conditions-generales-de-vente.php</p>
+</body></html>
+]]></body>
+</mail>

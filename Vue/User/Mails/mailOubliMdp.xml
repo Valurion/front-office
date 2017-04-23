@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mail>
+<subject>Votre couple identifiant/mot de passe.</subject>
+<from>Cairn.info&lt;support@cairn.info&gt;</from>
+<fromName>Cairn.info</fromName>
+<body><![CDATA[
+Suite à votre demande sur le site www.cairn.info, veuillez trouver ci-joint vos références :
+
+
+Identifiant  : [TO]
+Mot de passe : [MOT_PASSE]
+
+
+
+Nous vous souhaitons une bonne visite.
+]]></body>
+</mail>

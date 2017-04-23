@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mail>
+<subject>Your username and password.</subject>
+<from>Cairn.info&lt;support@cairn.info&gt;</from>
+<fromName>Cairn.info</fromName>
+<body><![CDATA[
+As requested via our site at www.cairn-int.info, here are your login details :
+
+
+Username  : [TO]
+Password : [MOT_PASSE]
+
+
+We hope you find the site useful.
+]]></body>
+</mail>

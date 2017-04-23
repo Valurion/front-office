@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mail>
+<subject>Cairn.info: Password reset</subject>
+<from>Cairn.info&lt;support@cairn.info&gt;</from>
+<fromName>Cairn.info</fromName>
+<body><![CDATA[
+<br/>
+<p>You're receiving this e-mail because you requested a password reset for your Cairn.info account. Please click on:<br/>
+<a target="_blank" href="http://[URLSITE]/mdp_nouveau.php?id=[LINK]">http://[URLSITE]/motdepasseoublie</a></p>
+<p>If you need help using our website, please contact <a target="blank" href="http://[URLSITE]/contact.php">our technical support.</a>.</p>
+<p>We hope that you will visit our website.</p>
+<p>Cairn.info team.</p>
+<br/>
+<br/>-----------------------
+<br/>Cairn S.A.
+<br/>58/60, rue des Champs
+<br/>B-4020 Liège
+<br/>BELGIQUE
+<br/>Conditions générales de vente :
+<br/>http://[URLSITE]/conditions-generales-de-vente.php
+]]></body>
+</mail>

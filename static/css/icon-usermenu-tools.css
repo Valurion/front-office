@@ -1,0 +1,75 @@
+.icon-usermenu-tools-sprite, .icon-usermenu-tools-add-to-biblio, .icon-usermenu-tools-bigger-char, .icon-usermenu-tools-highlight, .icon-usermenu-tools-lower-chr, .icon-usermenu-tools-pdf, .icon-usermenu-tools-print, .icon-usermenu-tools-summary, .icon-usermenu-tools-zen {
+    background: url('../images/icon-usermenu-tools-s071c9ebf20.png') no-repeat;
+}
+
+.icon-usermenu-tools-add-to-biblio {
+    background-position: 0 0;
+    height: 34px;
+    width: 34px;
+}
+.icon-usermenu-tools-add-to-biblio:hover, .icon-usermenu-tools-add-to-biblio.add-to-biblio_hover, .icon-usermenu-tools-add-to-biblio.add-to-biblio-hover {
+    background-position: 0 -510px;
+}
+
+.icon-usermenu-tools-bigger-char {
+    background-position: 0 -170px;
+    height: 34px;
+    width: 34px;
+}
+.icon-usermenu-tools-bigger-char:hover, .icon-usermenu-tools-bigger-char.bigger-char_hover, .icon-usermenu-tools-bigger-char.bigger-char-hover {
+    background-position: 0 -340px;
+}
+
+.icon-usermenu-tools-highlight {
+    background-position: 0 -204px;
+    height: 34px;
+    width: 34px;
+}
+.icon-usermenu-tools-highlight:hover, .icon-usermenu-tools-highlight.highlight_hover, .icon-usermenu-tools-highlight.highlight-hover {
+    background-position: 0 -238px;
+}
+
+.icon-usermenu-tools-lower-chr {
+    background-position: 0 -306px;
+    height: 34px;
+    width: 34px;
+}
+.icon-usermenu-tools-lower-chr:hover, .icon-usermenu-tools-lower-chr.lower-chr_hover, .icon-usermenu-tools-lower-chr.lower-chr-hover {
+    background-position: 0 -272px;
+}
+
+.icon-usermenu-tools-pdf {
+    background-position: 0 -136px;
+    height: 34px;
+    width: 34px;
+}
+.icon-usermenu-tools-pdf:hover, .icon-usermenu-tools-pdf.pdf_hover, .icon-usermenu-tools-pdf.pdf-hover {
+    background-position: 0 -102px;
+}
+
+.icon-usermenu-tools-print {
+    background-position: 0 -374px;
+    height: 34px;
+    width: 34px;
+}
+.icon-usermenu-tools-print:hover, .icon-usermenu-tools-print.print_hover, .icon-usermenu-tools-print.print-hover {
+    background-position: 0 -408px;
+}
+
+.icon-usermenu-tools-summary {
+    background-position: 0 -442px;
+    height: 34px;
+    width: 34px;
+}
+.icon-usermenu-tools-summary:hover, .icon-usermenu-tools-summary.summary_hover, .icon-usermenu-tools-summary.summary-hover {
+    background-position: 0 -476px;
+}
+
+.icon-usermenu-tools-zen {
+    background-position: 0 -68px;
+    height: 34px;
+    width: 34px;
+}
+.icon-usermenu-tools-zen:hover, .icon-usermenu-tools-zen.zen_hover, .icon-usermenu-tools-zen.zen-hover {
+    background-position: 0 -34px;
+}
